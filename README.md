@@ -1,3 +1,13 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitascii.com/api/tiagx422?theme=dark&amp;template=native_simple" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gitascii.com/api/tiagx422?theme=light&amp;template=native_simple" />
+    <img src="https://gitascii.com/api/tiagx422?theme=dark&amp;template=native_simple" alt="GitAscii profile do Tiago" width="100%" />
+  </picture>
+</div>
+
+---
+
 <p align="center"><code>PERFIL&nbsp; / &nbsp;PURPLE RAIN SIGNAL</code></p>
 
 ## Hero principal

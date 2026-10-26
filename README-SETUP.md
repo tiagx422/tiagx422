@@ -63,6 +63,10 @@ Keep `README.md`, `assets/`, and `scripts/` at the repository root so the image 
 
 The README is installed in `tiagx422/tiagx422` on its `main` branch.
 
+## GitAscii profile banner
+
+The profile README also includes the GitAscii layout exported for `tiagx422`. Its `gitascii.json` configuration lives on the `gitascii` branch, and the README uses the GitAscii HTTP renderer with separate dark and light requests. The rest of this README, its local badges, and the Purple Rain assets remain in the repository as supporting profile content.
+
 ## Check the result
 
 - Preview the Markdown on GitHub before publishing. Confirm the table, `picture` element, SVG badges, GIFs, and fallback disclosure all render.
