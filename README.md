@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**tiagx422/tiagx422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./banner.svg" alt="Olá, eu sou o Tiago" width="100%">
 
-Here are some ideas to get you started:
+<p>Projetos, ideias e experimentos.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/tiagx422?tab=repositories"><img src="https://img.shields.io/badge/VER%20PROJETOS-17152B?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos"></a>
+<a href="https://github.com/tiagx422?tab=followers"><img src="https://img.shields.io/github/followers/tiagx422?label=SEGUIDORES&style=for-the-badge&color=7657F6" alt="Seguidores"></a>
+
+</div>
+
+---
+
+<div align="center">
+
+*Bem-vindo ao meu perfil.*
+
+</div>
