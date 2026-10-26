@@ -16,7 +16,7 @@ All three options are under 160 characters:
 
 1. **Minimal and professional** — `Learning programming and logic one project at a time. Building with intention.`
 2. **Subtle music reference** — `Exploring code, music, and ideas with curiosity—one small experiment at a time.`
-3. **Terminal identity** — `tiagx422@purple-dev:~$` learning JavaScript, Python, Git, GitHub, and MySQL.
+3. **Terminal identity** — tiagx422@purple-dev:~$ learning JavaScript, Python, Git, GitHub, and MySQL.
 
 These are suggestions only; the GitHub profile description field has not been changed.
 
@@ -39,6 +39,7 @@ The banner keeps its typography within a wide safe area and uses a 3:1 viewBox. 
 ## Editing the vector assets
 
 `assets/prince-banner.svg` and `assets/auth-symbol.svg` are the editable source definitions. They use inline vector shapes, paths, text, and restrained fills; neither depends on an external image or font download. `docs/create_terminal_gif.py` is the local generator used to rebuild the GIF.
+
 
 
 
