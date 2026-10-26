@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Olá, eu sou o Tiago</title>
+  <desc id="desc">Capa roxa escura para o perfil GitHub de tiagx422.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11111f"/>
+      <stop offset="0.55" stop-color="#20183d"/>
+      <stop offset="1" stop-color="#35236d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(955 38) rotate(135) scale(345 250)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9277ff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#9277ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#fff" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#glow)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#grid)"/>
+  <circle cx="1040" cy="170" r="108" fill="none" stroke="#c3b6ff" stroke-opacity=".25" stroke-width="1.5"/>
+  <circle cx="1040" cy="170" r="76" fill="none" stroke="#c3b6ff" stroke-opacity=".35" stroke-width="1.5"/>
+  <circle cx="1040" cy="170" r="42" fill="#9a83ff" fill-opacity=".13" stroke="#c3b6ff" stroke-opacity=".65" stroke-width="1.5"/>
+  <circle cx="1095" cy="93" r="5" fill="#c4b5fd"/>
+  <circle cx="948" cy="235" r="4" fill="#a5f3fc"/>
+  <path d="M907 170h266M1040 37v266" stroke="#c3b6ff" stroke-opacity=".12"/>
+  <text x="92" y="137" fill="#c4b5fd" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="5">GITHUB PROFILE</text>
+  <text x="88" y="204" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1">Olá, eu sou o Tiago</text>
+  <text x="92" y="246" fill="#d6d2e8" font-family="Segoe UI, Arial, sans-serif" font-size="22">@tiagx422  ·  projetos, ideias e experimentos</text>
+  <rect x="92" y="270" width="54" height="4" rx="2" fill="#a78bfa"/>
+  <rect x="154" y="270" width="20" height="4" rx="2" fill="#67e8f9"/>
+</svg>
