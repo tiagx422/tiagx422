@@ -1,17 +1,18 @@
-# Purple Digital Stage
+# Purple terminal profile
 
-## Direção visual
+O README usa o ASCII enviado pelo Tiago como foco principal. A cópia fonte aparada está em `assets/ascii-art-original.txt`; a versão compacta em `assets/ascii-art-compact.txt` reduz o desenho de 93 × 54 para 60 × 35 células para caber ao lado das informações no bloco monoespaçado.
 
-A referência fotográfica tem formato vertical 4:5 e concentra vermelho no chapéu/gola, âmbar na guitarra e luz de palco quente sobre um fundo muito escuro. O banner é uma composição horizontal original: roxo noturno domina; lavanda ilumina chuva, cordas e texto; âmbar/vermelho aparecem apenas como referência indireta na luz. A figura e a guitarra são silhuetas vetoriais simplificadas, sem retrato ou detalhe facial. O nome Prince aparece apenas como referência artística, sem alegar vínculo oficial.
+A coluna da direita mostra somente dados já informados: Tiago/tiagx422, tecnologias em aprendizado, foco em praticar e a referência musical. Os comandos são texto decorativo, não comandos executados. A chuva roxa é uma animação local separada. Prince e *While My Guitar Gently Weeps* aparecem como referências artísticas, sem sugerir vínculo oficial.
 
 ## Estrutura
 
-`README.md` mantém o conteúdo essencial em texto Markdown, usa imagens do próprio repositório, arte ASCII de largura compacta, stack honesta em aprendizado, e não inventa projetos ou links. `assets/purple-stage-banner.svg` é o banner original estático. `assets/purple-rain.gif` é a animação autônoma. `assets/guitar-ascii.txt` conserva uma cópia editável da arte. `docs/create_purple_rain.py` recria o GIF com Pillow.
+- `README.md`: bloco ASCII e terminal lado a lado, breve apresentação, stack, projetos e rodapé.
+- `assets/ascii-art-original.txt`: desenho enviado, sem linhas vazias externas.
+- `assets/ascii-art-compact.txt`: versão usada no README.
+- `assets/purple-rain.gif`: chuva digital em loop.
+- `docs/create_purple_rain.py`: gerador da animação.
+- `docs/optimization.md`: compatibilidade, dimensões e checagens.
 
-## Compatibilidade e acesso
+## Atualização
 
-O README usa Markdown e HTML simples para centralizar as imagens. Não inclui JavaScript, CSS, iframe ou reprodução de áudio. O SVG não contém scripts/animação. GIF fornece movimento com fallback de texto alternativo; o essencial também está escrito no README. Elementos fluem verticalmente e imagens usam largura percentual; ASCII fica em bloco de texto rolável pelo visualizador. O GIF é silencioso e não comunica níveis reais de habilidade nem estados de sistema.
-
-## Como alterar
-
-Edite `README.md` no repositório `tiagx422/tiagx422`. Para atualizar a chuva, execute `python docs/create_purple_rain.py` com Pillow instalado. Mantenha caminhos relativos e confirme que GIF e SVG estão no diretório `assets/`. A lista de projetos pode ser preenchida quando houver repositórios públicos que queira destacar.
+Edite `README.md` para mudar as informações. Edite `assets/ascii-art-compact.txt` para ajustar o desenho da versão exibida. A arte fonte fica preservada em `assets/ascii-art-original.txt`. Para recriar a animação, execute `python docs/create_purple_rain.py` com Pillow instalado.
