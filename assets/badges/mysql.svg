@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="34" viewBox="0 0 140 34" role="img" aria-label="MySQL, learning">
+  <rect width="140" height="34" rx="7" fill="#160B24" stroke="#30104D"/>
+  <ellipse cx="17" cy="9" rx="9" ry="3.5" fill="#C4A7FF"/>
+  <path d="M8 9v14c0 2 4 4 9 4s9-2 9-4V9M8 16c0 2 4 4 9 4s9-2 9-4" fill="none" stroke="#C4A7FF" stroke-width="1.7"/>
+  <text x="36" y="16" fill="#F5EEFF" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1">MYSQL</text>
+  <text x="36" y="27" fill="#B8A6CA" font-family="Arial,sans-serif" font-size="7" letter-spacing="1">LEARNING</text>
+</svg>
+

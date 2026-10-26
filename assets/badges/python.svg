@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="34" viewBox="0 0 142 34" role="img" aria-label="Python, learning">
+  <rect width="142" height="34" rx="7" fill="#160B24" stroke="#30104D"/>
+  <path d="M17 7c-5 0-7 2-7 6v4h8v2h-8c-3 0-4 2-4 5 0 3 2 4 5 4h4v-5c0-3 2-5 5-5h5v-5c0-4-2-6-7-6h-1Z" fill="#A855F7"/>
+  <path d="M18 27c5 0 7-2 7-6v-4h-8v-2h8c3 0 4-2 4-5 0-3-2-4-5-4h-4v5c0 3-2 5-5 5h-5v5c0 4 2 6 7 6h1Z" fill="#C4A7FF"/>
+  <circle cx="15" cy="11" r="1" fill="#160B24"/><circle cx="21" cy="23" r="1" fill="#160B24"/>
+  <text x="38" y="16" fill="#F5EEFF" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1">PYTHON</text>
+  <text x="38" y="27" fill="#B8A6CA" font-family="Arial,sans-serif" font-size="7" letter-spacing="1">LEARNING</text>
+</svg>
+
