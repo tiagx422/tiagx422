@@ -1,23 +1,20 @@
 <div align="center">
 
-<img src="./assets/purple-stage-banner.svg" alt="Palco noturno roxo com guitarra abstrata e identidade de terminal para tiagx422" width="100%">
+<img src="./assets/purple-stage-banner.svg" alt="Palco noturno roxo com guitarra abstrata e identidade de terminal para tiagx422" width="1200">
 
-<img src="./assets/purple-rain.gif" alt="Animação em loop de chuva roxa descendo sobre um terminal musical" width="100%">
+<img src="./assets/purple-rain.gif" alt="Animação em loop de chuva roxa descendo sobre um terminal musical" width="720">
 
 </div>
 
 ```text
-      .---------------------------------.
-      |  .-------------------------.    |
-      |  |   .---.                 |    |
-      |  |  / .-. \____            |    |
-      |  |  \ `-' /    \___________|===>
-      |  |   `---'   o    o         |    |
-      |  `-------------------------'    |
-      `----._____________________.------'
-              \   PURPLE   /\
-               `-----------'
-                 ~  ~  ~  ~
+      .-------------------.
+      |  .--.              |
+      | / ..\____         |
+      | \_''/   \_________+==>
+      |    o   o           |
+      '---.___________.----'
+          \ PURPLE /
+           '------'
 ```
 
 ### `tiagx422@purple-stage:~$`
@@ -39,3 +36,4 @@ Ainda estou começando — em breve vou destacar aqui projetos feitos por mim.
 `END OF SESSION · KEEP BUILDING`
 
 </div>
+
