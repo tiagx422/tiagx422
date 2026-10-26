@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">tiagx422 — learning with intention</title>
+  <desc id="desc">An original stage-inspired profile banner in charcoal, red, and guitar gold, with subtle pinstripes, abstract guitar strings, and a sound-wave trace.</desc>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0B0D"/>
+      <stop offset="1" stop-color="#171717"/>
+    </linearGradient>
+    <radialGradient id="stage" cx="0" cy="0" r="1" gradientTransform="translate(1020 74) rotate(135) scale(390 310)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B51F35" stop-opacity=".36"/>
+      <stop offset=".46" stop-color="#741925" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#0B0B0D" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="pinstripes" width="18" height="18" patternUnits="userSpaceOnUse">
+      <path d="M2 0V18" stroke="#F4F0E8" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="400" fill="url(#base)"/>
+  <rect width="1200" height="400" fill="url(#stage)"/>
+  <rect x="765" y="0" width="435" height="400" fill="url(#pinstripes)"/>
+  <path d="M0 0H8V400H0Z" fill="#B51F35"/>
+  <path d="M744 0L1050 0L831 400H618Z" fill="#B51F35" opacity=".045"/>
+  <g stroke="#D2A45D" stroke-opacity=".28" stroke-width="1.2">
+    <path d="M880 87L1125 316"/>
+    <path d="M895 78L1140 307"/>
+    <path d="M910 69L1155 298"/>
+    <path d="M925 60L1170 289"/>
+    <path d="M940 51L1185 280"/>
+    <path d="M955 42L1200 271"/>
+    <path d="M940 144L1070 5" stroke-opacity=".16"/>
+    <path d="M979 181L1105 44" stroke-opacity=".16"/>
+    <path d="M1018 218L1140 83" stroke-opacity=".16"/>
+    <path d="M1057 255L1175 122" stroke-opacity=".16"/>
+  </g>
+  <path d="M92 315h54l9-8 10 16 13-29 12 39 12-25 10 7h36l8-11 9 17 11-28 13 40 11-22 12 4h46l9-8 9 15 13-27 12 37 12-22 11 5h49l8-10 10 17 12-30 13 39 12-23 11 7h45l9-8 10 15 12-26 13 36 11-22 13 5h49l8-10 10 17 12-29 13 37 11-20 12 5h45l10-8 9 16 13-27 12 36 13-22 10 5h48" fill="none" stroke="#D2A45D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".8"/>
+  <circle cx="1080" cy="326" r="4" fill="#B51F35"/>
+  <circle cx="1120" cy="326" r="2.5" fill="#8D72C7"/>
+  <text x="98" y="91" fill="#D2A45D" font-family="Consolas, Menlo, monospace" font-size="17" letter-spacing="3">TRACK_01  /  LEARNING LOG</text>
+  <text x="94" y="197" fill="#F4F0E8" font-family="Segoe UI, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-2">tiagx422</text>
+  <text x="99" y="237" fill="#F4F0E8" fill-opacity=".76" font-family="Consolas, Menlo, monospace" font-size="21">CODE  /  MUSIC  /  CURIOSITY</text>
+  <path d="M99 260H281" stroke="#B51F35" stroke-width="3"/>
+  <path d="M281 260H329" stroke="#D2A45D" stroke-width="3"/>
+</svg>
+

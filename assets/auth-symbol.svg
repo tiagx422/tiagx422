@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">tiagx422 signature mark</title>
+  <desc id="desc">A small original guitar-pick outline with a waveform and cursor-like accent.</desc>
+  <path d="M48 9C29 9 17 21 19 41c2 20 17 38 29 47 12-9 27-27 29-47C79 21 67 9 48 9Z" fill="#0B0B0D" stroke="#D2A45D" stroke-width="2.2"/>
+  <path d="M48 14C33 14 23 24 25 41c2 16 13 31 23 39 10-8 21-23 23-39 2-17-8-27-23-27Z" fill="none" stroke="#B51F35" stroke-width="1.5"/>
+  <path d="M29 49h10l4-8 7 17 6-12 4 3h7" fill="none" stroke="#F4F0E8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M48 31v9" stroke="#8D72C7" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="48" cy="28" r="2.3" fill="#D2A45D"/>
+</svg>
+
