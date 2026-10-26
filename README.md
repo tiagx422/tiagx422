@@ -2,6 +2,8 @@
 
 <img src="./banner.svg" alt="Olá, eu sou o Tiago" width="100%">
 
+<img src="./terminal.gif" alt="Animação de terminal mostrando o que estou aprendendo" width="640">
+
 <p>Projetos, ideias e experimentos.</p>
 
 <a href="https://github.com/tiagx422?tab=repositories"><img src="https://img.shields.io/badge/VER%20PROJETOS-17152B?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos"></a>
