@@ -57,25 +57,22 @@
             }
             
             #widget-widget_1793493858687_2 .typewriter-line-widget_1793493858687_2-7-0 {
-              animation: typewriter-clip-widget_1793493858687_2-7 85.71428571428571ms linear 0ms both;
+              animation: typewriter-clip-widget_1793493858687_2-7 100ms linear 0ms both;
             }
             #widget-widget_1793493858687_2 .typewriter-line-widget_1793493858687_2-7-1 {
-              animation: typewriter-clip-widget_1793493858687_2-7 85.71428571428571ms linear 85.71428571428571ms both;
+              animation: typewriter-clip-widget_1793493858687_2-7 100ms linear 100ms both;
             }
             #widget-widget_1793493858687_2 .typewriter-line-widget_1793493858687_2-7-2 {
-              animation: typewriter-clip-widget_1793493858687_2-7 85.71428571428571ms linear 171.42857142857142ms both;
+              animation: typewriter-clip-widget_1793493858687_2-7 100ms linear 200ms both;
             }
             #widget-widget_1793493858687_2 .typewriter-line-widget_1793493858687_2-7-3 {
-              animation: typewriter-clip-widget_1793493858687_2-7 85.71428571428571ms linear 257.1428571428571ms both;
+              animation: typewriter-clip-widget_1793493858687_2-7 100ms linear 300ms both;
             }
             #widget-widget_1793493858687_2 .typewriter-line-widget_1793493858687_2-7-4 {
-              animation: typewriter-clip-widget_1793493858687_2-7 85.71428571428571ms linear 342.85714285714283ms both;
+              animation: typewriter-clip-widget_1793493858687_2-7 100ms linear 400ms both;
             }
             #widget-widget_1793493858687_2 .typewriter-line-widget_1793493858687_2-7-5 {
-              animation: typewriter-clip-widget_1793493858687_2-7 85.71428571428571ms linear 428.57142857142856ms both;
-            }
-            #widget-widget_1793493858687_2 .typewriter-line-widget_1793493858687_2-7-6 {
-              animation: typewriter-clip-widget_1793493858687_2-7 85.71428571428571ms linear 514.2857142857142ms both;
+              animation: typewriter-clip-widget_1793493858687_2-7 100ms linear 500ms both;
             }
           </style>
         
@@ -85,22 +82,20 @@
       
           <clipPath id="typewriter-clip-widget_1793493858687_2-7">
             <rect class="typewriter-line-widget_1793493858687_2-7-0" x="0" y="4" width="0" height="22" />
-          <rect class="typewriter-line-widget_1793493858687_2-7-1" x="0" y="22" width="0" height="22" />
+          <rect class="typewriter-line-widget_1793493858687_2-7-1" x="0" y="30" width="0" height="22" />
           <rect class="typewriter-line-widget_1793493858687_2-7-2" x="0" y="48" width="0" height="22" />
-          <rect class="typewriter-line-widget_1793493858687_2-7-3" x="0" y="66" width="0" height="22" />
+          <rect class="typewriter-line-widget_1793493858687_2-7-3" x="0" y="74" width="0" height="22" />
           <rect class="typewriter-line-widget_1793493858687_2-7-4" x="0" y="92" width="0" height="22" />
           <rect class="typewriter-line-widget_1793493858687_2-7-5" x="0" y="110" width="0" height="22" />
-          <rect class="typewriter-line-widget_1793493858687_2-7-6" x="0" y="128" width="0" height="22" />
           
           </clipPath>
           <g clip-path="url(#typewriter-clip-widget_1793493858687_2-7)">
             <text x="12" y="20" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">─</tspan><tspan fill="#ff00ff"> tiagx422@github </tspan><tspan fill="#ff00ff">──────────────────────────────────────────────────────────────────────────</tspan></text>
-<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">. Languages: </tspan><tspan fill="#ff00ff">........................................................................</tspan><tspan fill="#ff00ff"> Python</tspan></text>
-<text x="12" y="64" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">─</tspan><tspan fill="#ff00ff"> Contact </tspan><tspan fill="#ff00ff">──────────────────────────────────────────────────────────────────────────────────</tspan></text>
-<text x="12" y="82" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">. GitHub: </tspan><tspan fill="#ff00ff">..............................................................</tspan><tspan fill="#ff00ff"> github.com/tiagx422</tspan></text>
-<text x="12" y="108" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">─</tspan><tspan fill="#ff00ff"> GitHub Stats </tspan><tspan fill="#ff00ff">─────────────────────────────────────────────────────────────────────────────</tspan></text>
-<text x="12" y="126" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">. Repos: </tspan><tspan fill="#ff00ff">.................................</tspan><tspan fill="#ff00ff"> 1</tspan><tspan fill="#ff00ff"> | </tspan><tspan fill="#ff00ff">. Stars: </tspan><tspan fill="#ff00ff">.................................</tspan><tspan fill="#ff00ff"> 0</tspan></text>
-<text x="12" y="144" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">. Commits: </tspan><tspan fill="#ff00ff">...............................</tspan><tspan fill="#ff00ff"> 6</tspan><tspan fill="#ff00ff"> | </tspan><tspan fill="#ff00ff">. Followers: </tspan><tspan fill="#ff00ff">.............................</tspan><tspan fill="#ff00ff"> 0</tspan></text>
+<text x="12" y="46" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">─</tspan><tspan fill="#ff00ff"> Contact </tspan><tspan fill="#ff00ff">──────────────────────────────────────────────────────────────────────────────────</tspan></text>
+<text x="12" y="64" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">. GitHub: </tspan><tspan fill="#ff00ff">..............................................................</tspan><tspan fill="#ff00ff"> github.com/tiagx422</tspan></text>
+<text x="12" y="90" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">─</tspan><tspan fill="#ff00ff"> GitHub Stats </tspan><tspan fill="#ff00ff">─────────────────────────────────────────────────────────────────────────────</tspan></text>
+<text x="12" y="108" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">. Repos: </tspan><tspan fill="#ff00ff">.................................</tspan><tspan fill="#ff00ff"> 1</tspan><tspan fill="#ff00ff"> | </tspan><tspan fill="#ff00ff">. Stars: </tspan><tspan fill="#ff00ff">.................................</tspan><tspan fill="#ff00ff"> 0</tspan></text>
+<text x="12" y="126" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ff00ff">. Commits: </tspan><tspan fill="#ff00ff">...............................</tspan><tspan fill="#ff00ff"> 5</tspan><tspan fill="#ff00ff"> | </tspan><tspan fill="#ff00ff">. Followers: </tspan><tspan fill="#ff00ff">.............................</tspan><tspan fill="#ff00ff"> 0</tspan></text>
           </g>
         
   
